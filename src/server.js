@@ -23,4 +23,4 @@ server
 .get("/give-classes", pageGiveClasses)
 .post("/save-classes", saveClasses)
 // start do servidor
-.listen(5500)
+.listen(3000)
